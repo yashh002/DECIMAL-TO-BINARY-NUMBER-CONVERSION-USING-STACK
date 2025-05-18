@@ -1,5 +1,6 @@
+# DECIMAL TO BINARY NUMBER CONVERSION USING STACK
 #include<stdio.h>
-# define max 10
+#define max 10
 
 int stack[max];
 int top = -1;
